@@ -11,7 +11,13 @@
     
 This project was created by `react-native-init` command.
     
-
+## Dependencies
+  * [React Native](https://facebook.github.io/react-native/)
+  * [NativeBase for UI Elements](https://github.com/GeekyAnts/NativeBase)
+  * [React Native Datepicker](https://github.com/xgfe/react-native-datepicker)
+ 
+ ## Get Started
+  
 
  
 
