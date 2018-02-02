@@ -17,10 +17,25 @@ This project was created by `react-native-init` command.
   * [React Native Datepicker](https://github.com/xgfe/react-native-datepicker)
  
  ## Requirements
-  * [Node](https://nodejs.org/) 4.x or better
-  * [React Native](http://facebook.github.io/react-native/docs/getting-started.html) for development
-  * [Android SDK](http://facebook.github.io/react-native/docs/getting-started.html) for Android development (optional)
-  * [Android Lollipop](https://www.android.com/versions/lollipop-5-0/) or better for Android device testing (optional)
+  * [Node](https://nodejs.org/) 4.x or better  
+  * [React Native](http://facebook.github.io/react-native/docs/getting-started.html) for development 
+  * [Android SDK](http://facebook.github.io/react-native/docs/getting-started.html) for Android development (optional) 
+  * [Android Lollipop](https://www.android.com/versions/lollipop-5-0/) or better for Android device testing (optional) 
+  
+ ## Getting Started 
+  #### 1. Open Command Prompt or gitbash and install these commands   
+      >> npm install -g npm@4.6.1
+      >> npm install -g yarn@1.3.2
+      >> npm install -g react-native-cli@2.0.1
+      
+   #### 2. Project Installation Procedure
+       >> git clone https://github.com/hrishiakhade/Zap_app.git
+       >> cd Zap_app
+       >> cd Zapier
+       >> npm install  
+       >> npm install native-base --save
+       >> npm install react-native-datepicker --save
+       >> react-native link
   
   
 
