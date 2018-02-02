@@ -36,7 +36,10 @@ This project was created by `react-native-init` command.
        >> npm install native-base --save
        >> npm install react-native-datepicker --save
        >> react-native link
-  
+       
+  ## Running
+   ####  Run app in Android device(enable USB Debugging First) or emulator   
+         'react-native run-android'
   
 
  
