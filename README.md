@@ -16,7 +16,12 @@ This project was created by `react-native-init` command.
   * [NativeBase for UI Elements](https://github.com/GeekyAnts/NativeBase)
   * [React Native Datepicker](https://github.com/xgfe/react-native-datepicker)
  
- ## Get Started
+ ## Requirements
+  * [Node](https://nodejs.org/) 4.x or better
+  * [React Native](http://facebook.github.io/react-native/docs/getting-started.html) for development
+  * [Android SDK](http://facebook.github.io/react-native/docs/getting-started.html) for Android development (optional)
+  * [Android Lollipop](https://www.android.com/versions/lollipop-5-0/) or better for Android device testing (optional)
+  
   
 
  
