@@ -8,6 +8,9 @@
 
 ## Google Drive APK Link 
     https://drive.google.com/open?id=1emaK5FMiH8Pq50oYpgabYBRN6xJW7yhi
+    
+This project was created by `react-native-init` command.
+    
 
 
  
