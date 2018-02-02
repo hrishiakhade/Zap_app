@@ -2,8 +2,9 @@
 
 ## Demo  
 
-![Alt Text](https://i.imgflip.com/23tn9u.gif) 
 ![Alt Text](https://i.imgflip.com/23tmt4.gif)
+![Alt Text](https://i.imgflip.com/23tn9u.gif) 
+
 
 
 ## Google Drive APK Link 
