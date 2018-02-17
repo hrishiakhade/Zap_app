@@ -43,10 +43,16 @@ This project was created by `react-native-init` command.
    ####  Run app in Android device(enable USB Debugging First) or emulator   
          'react-native run-android'
          
+   ####  Run app in iOS device(enable USB Debugging First) or emulator
+         'react-native run-ios' 
+         
    ####  Generate Signed APK 
          Android requires that all apps be digitally signed with a certificate before they can be installed, so to 
     distribute your Android application via Google Play store, you'll need to generate a signed release APK.
    Follow the instructions here https://facebook.github.io/react-native/docs/signed-apk-android.html to generate Signed APK .
+   
+  
+
   
 
  
