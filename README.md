@@ -38,7 +38,11 @@ This project was created by `react-native-init` command.
        >> npm install native-base --save
        >> npm install react-native-datepicker --save
        >> react-native link
-       
+  
+  #### 3. Post data to your own Hasura cluster (optional)
+         >> open Zap.js 
+         >> Replace CLUSTER_NAME with your own hasura cluster from 
+            const DBUrl ="https://app.CLUSTER_NAME.hasura-app.io/signup" .
   ## Running
    ####  Run app in Android device(enable USB Debugging First) or emulator   
          'react-native run-android'
